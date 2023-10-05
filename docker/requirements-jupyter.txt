@@ -7,7 +7,7 @@ zarr==2.6.1
 fsspec==0.8.5
 numpy==1.19.5
 opencv-contrib-python==4.5.1.48
-imagecodecs==2020.5.30
+imagecodecs==2023.9.18
 cupy-cuda110==8.4.0
 jupyterlab==3.0.7
 dask_labextension==5.0.0
