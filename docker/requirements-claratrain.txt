@@ -7,4 +7,4 @@ zarr==2.6.1
 fsspec==0.8.5
 numpy # 1.17.3 already exists in the image
 opencv-contrib-python==4.5.1.48
-imagecodecs==2020.5.30
+imagecodecs==2023.9.18
